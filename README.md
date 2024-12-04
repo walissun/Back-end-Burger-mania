@@ -30,7 +30,7 @@
 1. **Clone o repositório**:
    
    ```bash
-   git clone https://github.com/seu-usuario/burger-mania-backend.git
+   git clone https://github.com/seu-usuario/Back-end-Burger-mania.git
    cd burger-mania-backend
 2. **Front-End repositório**:
    ```bash
